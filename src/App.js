@@ -2,7 +2,7 @@ import Navbar from 'react-bootstrap/Navbar';
 
 import '@fontsource/roboto/300.css';
 import Button from 'react-bootstrap/Button';
-import InputGroup from 'react-bootstrap/InputGroup';
+
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
